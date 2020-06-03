@@ -1,0 +1,11 @@
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.csprojAssemblyReference.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.AssemblyInfoInputs.cache
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.AssemblyInfo.cs
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.exe
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.deps.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.runtimeconfig.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.runtimeconfig.dev.json
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\bin\Debug\netcoreapp3.1\Aula9Calculadora.pdb
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.dll
+C:\Users\CasadoNotebook\Desktop\PrimeiroPOO\Aula9Calculadora\obj\Debug\netcoreapp3.1\Aula9Calculadora.pdb
